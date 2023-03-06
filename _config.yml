@@ -1,10 +1,10 @@
 # WhatATheme
 markdown: kramdown
-
+remote_theme: thedevslot/WhatATheme
 # URL of the Site
-url: ""
+url: "https://devisions.github.io/"
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: ""
+baseurl: "devisions.github.io"
 
 # Title of the Site
 title: DEVisions
@@ -56,7 +56,6 @@ sass:
 
 # Build settings
 plugins:
-  # - jekyll-admin
   - jekyll-feed
 
 # Permalink
