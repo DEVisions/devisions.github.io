@@ -9,9 +9,9 @@ baseurl: ""
 # Title of the Site
 title: DEVisions
 # Description of the Site
-description: Where my thoughts and experiences are collected
+description: Developing and securing digital visions
 # URL of Image of the Site
-site-image: /assets/images/meta.jpg
+site-image: /assets/images/devisions-meta.png
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -43,9 +43,9 @@ github_username: DEVisions
 # Name of the Author
 author-name: Alessandro Albani
 # URL for the Image of the Author
-author-image: /assets/images/devisions_circ_logo.png
+author-image: /assets/images/aa-circle.png
 # 60 Words About the Author
-author-about: I've always been really passionate about technology because I believe it grants us the possibility to shape for the better the world we live in. What my experiences have taught me is that even if opportunity doesn't knock, you can always build a door ;)
+author-about: I've always been really passionate about technology because I believe it grants us the possibility to shape for the better the world we live in. For this reason now I help companies make their businesses more secure. I am passionate about Penetration Testing, Infrastructure, Virtualization & Containerization.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.linkedin.com/in/a-albani
 
